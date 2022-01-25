@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">ShoppingListApp</string>
+    <string name="price">0 /=</string>
+    <string name="total_amt">Total Amount:</string>
+</resources>
